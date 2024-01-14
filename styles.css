@@ -1,0 +1,12 @@
+body {
+  background-color: #ddcf86;
+}
+
+.logo {
+  color: #386451;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 1.5;
+  text-decoration: none;
+}

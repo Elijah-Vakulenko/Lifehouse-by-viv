@@ -2,6 +2,10 @@ body {
   background-color: #ddcf86;
 }
 
+ul {
+  list-style: none;
+}
+
 .logo {
   color: #386451;
   font-family: "Inter";
@@ -9,4 +13,13 @@ body {
   font-size: 80px;
   line-height: 1.5;
   text-decoration: none;
+}
+
+.lifehouse {
+  color: #386451;
+  font-weight: 700;
+}
+
+.hero > p {
+  color: #386451;
 }

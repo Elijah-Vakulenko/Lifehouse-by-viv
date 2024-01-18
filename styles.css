@@ -5,7 +5,7 @@ body {
 ul {
   list-style: none;
 }
-
+/*Logo section*/
 .logo {
   color: #386451;
   font-family: "Inter";
@@ -14,19 +14,32 @@ ul {
   line-height: 1.5;
   text-decoration: none;
 }
+/*main menu*/
+.menu {
+  color: #386451;
+  font-size: 30px;
+  font-weight: 700;
+}
+/*album's menu*/
+.album-menu {
+  color: #386451;
+  font-size: 40px;
+  font-weight: 700;
+}
+/*hero*/
 
 .lifehouse {
   color: #386451;
   font-weight: 700;
+  font-size: 36px;
 }
 
 .hero > p {
   color: #386451;
-  font-size: 20px;
-  line-height: 1,02em;
-  letter-spacing: 2;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px;
+  line-height: 1.2;
+  letter-spacing: 1;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-
-.
+/*footer*/

@@ -19,12 +19,14 @@ ul {
   color: #386451;
   font-size: 30px;
   font-weight: 700;
+  font-family: "Inter", sans-serif;
 }
 /*album's menu*/
 .album-menu {
   color: #386451;
   font-size: 40px;
   font-weight: 700;
+  font-family: "Lobster", sans-serif;
 }
 /*hero*/
 
@@ -39,7 +41,7 @@ ul {
   font-size: 24px;
   line-height: 1.2;
   letter-spacing: 1;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "League Gothic", sans-serif;
 }
 
 /*footer*/

@@ -2,8 +2,8 @@
 {
     "id":"00",
     "CoverURL":"",
-    "title":"Diff's Lucky Day",
-    "year":"1999",
+    "Title":"Diff's Lucky Day",
+    "Year":"1999",
     "Genre":"Alternative rock",
     "Length":"54:10",
     "releaseDate":"May 8, 1999",
@@ -22,8 +22,8 @@
 {
     "id": "01",
     "CoverURL":"",
-    "title": "No Name Face",
-    "year": "2000",
+    "Title": "No Name Face",
+    "Year": "2000",
     "Genre": "Alternative rockpost-grunge",
     "Length": "55:17",
     "releaseDate": "October 31, 2000",
@@ -77,8 +77,8 @@
 {
     "id":"02",
     "CoverURL":"",
-    "title":"Stanley Climbfall",
-    "year":"2002",
+    "Title":"Stanley Climbfall",
+    "Year":"2002",
     "Genre":"Hard rock, alternative rock, post-grunge, pop rock",
     "Length":"50:16",
     "releaseDate":"September 17, 2002",
@@ -117,8 +117,8 @@
 {
     "id":"03",
     "CoverURL":"",
-    "title":"Lifehouse",
-    "year":"2005",
+    "Title":"Lifehouse",
+    "Year":"2005",
     "Genre":"Pop rock, alternative rock, post-grunge",
     "Length":"47:53",
     "releaseDate":"March 22, 2005",
@@ -161,6 +161,246 @@
     "Singles":{
         "You and Me":"Released: January 28, 2005",
         "Blind":"Released: November 7, 2005"
+}
+},
+{
+    "id":"04",
+    "CoverURL":"",
+    "Title":"Who We Are",
+    "Year":"2007",
+    "Genre":"Alternative rock, pop rock, post-grunge",
+    "Length":"46:20",
+    "ReleaseDate":"June 18, 2007",
+    "Recorded":"2006-2007",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        "German Villacorta": "assistant",
+        "Mark Somgynari": "assistant",
+        "Will Sandalls": "engineer",
+        "Jeff Rothschild": "mixing",
+        "Jack Joseph Puig": "mixing",
+        "Evan Peters": "A&R",
+        "Thom Panunzio": "A&R, mixing",
+        "Dean Nelson": "mixing assistant",
+        "Tim McCloy": "assistant",
+        "Stephen Lu": "conductor, string arrangements",
+        "Chris Lord-Alge": "mixing",
+        "Pamela Littky": "photography",
+        "Lifehouse": "producer",
+        "Pat Leonard": "keyboards",
+        "Jenn Johnson": "production coordination",
+        "Erik Johnson": "design",
+        "Ted Jensen": "mastering",
+        "Ross Hogarth": "engineering",
+        "Tina Hagio": "design",
+        "Kunio Hagio": "paintings",
+        "Eric Gorfain": "violin",
+        "Mark Goldenberg": "guitar",
+        "John Fields": "producer",
+        "Scott Faircloff": "engineering, vocal producer",
+        "Richard Dodd": "cello",
+        "Rocco Deluca": "organ",
+        "Jude Cole": "composer, guitar, keyboards, piano, producer, background vocals",
+        "Daphne Chen": "violin",
+        "Leah Katz": "viola",
+        "Keith Armstrong": "mixing assistant",
+        "Florian Ammon": "engineering, mixing"
+    },
+    "Label":"Geffen",
+    "Producer":"Jude Cole, Lifehouse, John Fields",
+    "Tracks":"12 + bonus tracks",
+    "TrackList":{
+        "1": "Disarray",
+        "2": "First Time",
+        "3": "Whatever It Takes",
+        "4": "Who We Are",
+        "5": "Broken",
+        "6": "The Joke",
+        "7": "Easier to Be",
+        "8": "Make Me Over",
+        "9": "Mesmerized",
+        "10": "Bridges",
+        "11": "Learn You Inside-Out",
+        "12": "Storm",
+        "13": "If This is Goodbye",
+        "14": "Signs of Life",
+        "15": "I Want You to Know",
+        "16": "Keep the Change",
+        "17": "You and Me (live in Portland)",
+        "18": "Hanging by a Moment (acoustic)",
+        "19": "Come Back Down (live in Portland)",
+        "20": "You and Me (extended wedding song version)"
+    },
+    "Singles": {
+        "First Time": "Released: May 7, 2007",
+        "Whatever It Takes": "Released: November 13, 2007",
+        "Broken": "Released: July 8, 2008"
+    }
+},
+{
+    "id":"05",
+    "CoverURL":"",
+    "title":"Smoke & Mirrors",
+    "year":"",
+    "Genre":"",
+    "Length":"",
+    "releaseDate":"",
+    "Recorded":"",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        
+    },
+    "Label":"",
+    "Producer":"",
+    "Tracks":"",
+    "TrackList":{
+
+    },
+    "Singles":{
+        
+}
+},
+{
+    "id":"06",
+    "CoverURL":"",
+    "title":"Almeria",
+    "year":"",
+    "Genre":"",
+    "Length":"",
+    "releaseDate":"",
+    "Recorded":"",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        
+    },
+    "Label":"",
+    "Producer":"",
+    "Tracks":"",
+    "TrackList":{
+
+    },
+    "Singles":{
+        
+}
+},
+{
+    "id":"07",
+    "CoverURL":"",
+    "title":"Out Of The Wasteland",
+    "year":"",
+    "Genre":"",
+    "Length":"",
+    "releaseDate":"",
+    "Recorded":"",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        
+    },
+    "Label":"",
+    "Producer":"",
+    "Tracks":"",
+    "TrackList":{
+
+    },
+    "Singles":{
+        
+}
+},
+{
+    "id":"08",
+    "CoverURL":"",
+    "title":"Goodbye Kanan",
+    "year":"",
+    "Genre":"",
+    "Length":"",
+    "releaseDate":"",
+    "Recorded":"",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        
+    },
+    "Label":"",
+    "Producer":"",
+    "Tracks":"",
+    "TrackList":{
+
+    },
+    "Singles":{
+        
+}
+},
+{
+    "id":"",
+    "CoverURL":"",
+    "title":"",
+    "year":"",
+    "Genre":"",
+    "Length":"",
+    "releaseDate":"",
+    "Recorded":"",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        
+    },
+    "Label":"",
+    "Producer":"",
+    "Tracks":"",
+    "TrackList":{
+
+    },
+    "Singles":{
+        
+}
+},
+{
+    "id":"",
+    "CoverURL":"",
+    "title":"",
+    "year":"",
+    "Genre":"",
+    "Length":"",
+    "releaseDate":"",
+    "Recorded":"",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals"
+    },
+    "Additional personnel":{
+        
+    },
+    "Label":"",
+    "Producer":"",
+    "Tracks":"",
+    "TrackList":{
+
+    },
+    "Singles":{
+        
 }
 },
    

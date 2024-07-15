@@ -1,0 +1,168 @@
+[
+{
+    "id":"00",
+    "CoverURL":"",
+    "title":"Diff's Lucky Day",
+    "year":"1999",
+    "Genre":"Alternative rock",
+    "Length":"54:10",
+    "releaseDate":"May 8, 1999",
+    "Band": {
+        "Jason Wade": "lead vocals, rhythm guitar",
+        "Sergio Andrade": "bass guitar",
+        "Jon \"Diff\" Palmer": "drums",
+        "Collin Hayden": "lead guitar",
+        "Aaron Lord": "keyboards"
+    },
+    "Label":"",
+    "Producer":"Ron Aniello",
+    "Tracks":"12",
+    "TrackList":"",
+},
+{
+    "id": "01",
+    "CoverURL":"",
+    "title": "No Name Face",
+    "year": "2000",
+    "Genre": "Alternative rockpost-grunge",
+    "Length": "55:17",
+    "releaseDate": "October 31, 2000",
+    "Recorded": "April-August 2000",
+    "Band": {
+        "Jason Wade": "vocals, guitars",
+        "Sergio Andrade": "bass",
+        "Jon Palmer": "drums"},
+    "Additional personnel": {
+        "Ron Aniello": "guitar, bass, keyboards, percussion, engineer",
+        "Collin Hayden": "electric guitar",
+        "Aaron Lord": "viola",
+        "Marcus Barone": "chamberlaine",
+        "Aaron Embry": "keyboards",
+        "John Leftwich": "string bass",
+        "Bob Glaub": "bass",
+        "Jack Kelly": "drums",
+        "Matt Laug": "drums",
+        "Walter Rodriquez": "tambourine",
+        "Jude Cole": "background vocals",
+        "Kendall Payne": "background vocals",
+        "Neal Averon": "engineer",
+        "Jim Scott": "engineer",
+        "Brendan O'Brien": "mixing",
+        "Maxfield Parrish": "cover painting"},
+    "Label": "DreamWorks",
+    "Producer": "Ron Aniello",
+    "Tracks": "12 (+ 2 bonus tracks)",
+    "TrackList": {
+        "1": "Hanging by a Moment",
+        "2": "Sick Cycle Carousel",
+        "3": "Unknown",
+        "4": "Somebody Else's Song",
+        "5": "Trying",
+        "6": "Only One",
+        "7": "Simon",
+        "8": "Cling and Clatter",
+        "9": "Breathing",
+        "10": "Quasimodo",
+        "11": "Somewhere in Between",
+        "12": "Everything",
+        "13": "What's Wrong with That",
+        "14": "Fool"},
+    "Singles": {
+        "Hanging by a Moment":"Released: September 25, 2000",
+        "Sick Cycle Carousel":"Released: April 24, 2001",
+        "Breathing":"Released: November 2, 2001"
+    }
+},
+
+{
+    "id":"02",
+    "CoverURL":"",
+    "title":"Stanley Climbfall",
+    "year":"2002",
+    "Genre":"Hard rock, alternative rock, post-grunge, pop rock",
+    "Length":"50:16",
+    "releaseDate":"September 17, 2002",
+    "Recorded":"December 2001 - June 2002",
+    "Studio": "Royaltone (North Hollywood, California)",
+     "Band": {
+        "Jason Wade": "vocals, guitars",
+        "Sergio Andrade": "bass",
+        "Rick Woolstenhulme, Jr.": "drums"},
+    "Additional personnel":{
+        "Brendan O'Brien" : "mixing"},
+    "Label": "DreamWorks",
+    "Producer": "Ron Aniello",
+    "Tracks":"12 (+ 2 bonus tracks)",
+    "TrackList":{
+        "1": "Spin",
+        "2": "Wash",
+        "3": "Sky Is Falling",
+        "4": "Anchor",
+        "5": "Am I Ever Gonna Find Out - Wade, Aniello - 2:39",
+        "6": "Stanley Climbfall - Wade, Aniello - 3:49",
+        "7": "Out of Breath - Wade, Aniello - 3:20",
+        "8": "Just Another Name - Wade - 3:24",
+        "9": "Take Me Away - Wade, Sergio Andrade - 4:47",
+        "10": "My Precious - Wade - 4:24",
+        "11": "Empty Space - Wade - 5:02",
+        "12": "The Beginning - Wade - 4:38",
+        "13": "How Long - Wade - 5:09",
+        "14": "Sky Is Falling (acoustic version)"
+    },
+    "Singles":{
+        "Spin":"Released: July 22, 2002",
+        "Take Me Away":"Released: April 7, 2003"
+    }
+},
+{
+    "id":"03",
+    "CoverURL":"",
+    "title":"Lifehouse",
+    "year":"2005",
+    "Genre":"Pop rock, alternative rock, post-grunge",
+    "Length":"47:53",
+    "releaseDate":"March 22, 2005",
+    "Recorded":"2004",
+    "Band": {
+        "Jason Wade": "acoustic guitar, electric guitar, lead vocals, string arrangements",
+        "Rick Woolstenhulme, Jr.": "percussion, piano, drums",
+        "Bryce Soderberg": "bass guitar, background vocals",
+        "John Alagía": "bass guitar, piano, electric guitar, Hammond organ, ukulele, background vocals, vibraphone, Chamberlin",
+        "Oliver Kraus": "cello, string arrangements"
+    },
+    "Additional personnel":{
+        "John Alagía": "producer, mixing",
+        "Danny Clinch": "photography",
+        "Pete Hanlon": "assistant engineer",
+        "Ted Jensen": "mastering",
+        "Jeff Juliano": "engineer, mixing",
+        "Nathaniel Kunkel": "string engineer"
+    },
+    "Label":"Geffen",
+    "Producer":"John Alagía, Jude Cole (also exec.)",
+    "Tracks":"12 (+ 3 bonus tracks)",
+    "TrackList":{
+        "1": "Come Back Down",
+        "2": "You and Me",
+        "3": "Blind",
+        "4": "All in All",
+        "5": "Better Luck Next Time",
+        "6": "Days Go By",
+        "7": "Into the Sun",
+        "8": "Undone",
+        "9": "We'll Never Know",
+        "10": "Walking Away",
+        "11": "Chapter One",
+        "12": "The End Has Only Begun",
+        "13": "Today (Special edition bonus track)",
+        "14": "Along the Way (UK and Japanese bonus track)",
+        "15": "Through These Times (Japanese bonus track)"
+    },
+    "Singles":{
+        "You and Me":"Released: January 28, 2005",
+        "Blind":"Released: November 7, 2005"
+}
+},
+   
+]
+
